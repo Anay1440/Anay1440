@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/37909590?s=400&u=ddb3b489d4fd35a31fe5ab62a1afb3204c3ee45e&v=4" width=100px />
+<div id="header" align="left">
+  <!-- <img src="https://avatars.githubusercontent.com/u/37909590?s=400&u=ddb3b489d4fd35a31fe5ab62a1afb3204c3ee45e&v=4" width=100px /> -->
   <div id="badges">
     <a href="https://www.linkedin.com/in/anaypatil/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
