@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### Check out <a href="https://scriptbook.web.app/home">ScriptBook</a>
 <div align="left">
-It's a React web application that showcases my codes for exercises in my college lab courses. The application allows users to search for codes by typing the question or by specifying the course, lab number, and question number.
+Scriptbook is a React web application that showcases my codes for exercises in my college lab courses. The application allows users to search for codes by typing the question or by specifying the course, lab number, and question number.
 </div>
 <hr />
 Working on <a href="https://anay1440.github.io/reactwin/">ReactWin</a>
